@@ -1,0 +1,13 @@
+/*
+
+
+git init
+git status
+
+git remote add origin + => endereço copiado do github
+git add .
+git status
+git commit -m "deUmNomeDeSuaPreferencia"
+git push orig 
+
+*/
