@@ -4,10 +4,12 @@
 git init
 git status
 
-git remote add origin + => endereço copiado do github
+git remote add origin + => endereço copiado do github |||
+||| meu link --->>> (https://github.com/Pedrolazzarin/AluraLogicaMatematica.git)
 git add .
 git status
 git commit -m "deUmNomeDeSuaPreferencia"
-git push orig 
+git push origin master
+
 
 */
