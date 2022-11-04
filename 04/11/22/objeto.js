@@ -8,3 +8,5 @@ const cliente = {
     cpf:"12345678901",
     email:"andre@email.com"
 }
+
+console.log(cliente);
